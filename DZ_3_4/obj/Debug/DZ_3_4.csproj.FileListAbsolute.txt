@@ -1,0 +1,7 @@
+C:\Users\ww\source\repos_c#\DZ_3_4\DZ_3_4\bin\Debug\DZ_3_4.exe.config
+C:\Users\ww\source\repos_c#\DZ_3_4\DZ_3_4\bin\Debug\DZ_3_4.exe
+C:\Users\ww\source\repos_c#\DZ_3_4\DZ_3_4\bin\Debug\DZ_3_4.pdb
+C:\Users\ww\source\repos_c#\DZ_3_4\DZ_3_4\obj\Debug\DZ_3_4.csprojAssemblyReference.cache
+C:\Users\ww\source\repos_c#\DZ_3_4\DZ_3_4\obj\Debug\DZ_3_4.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos_c#\DZ_3_4\DZ_3_4\obj\Debug\DZ_3_4.exe
+C:\Users\ww\source\repos_c#\DZ_3_4\DZ_3_4\obj\Debug\DZ_3_4.pdb
